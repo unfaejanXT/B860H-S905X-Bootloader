@@ -1,0 +1,5 @@
+Image
+Image.gz
+initramfs-linux-fallback.img
+initramfs-linux.img
+/dtbs
